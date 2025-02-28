@@ -1,4 +1,4 @@
-# Hi there, I'm lmj1120201854 👋
+# Hi, I'm Li Meiju 👋
 
 Welcome to my GitHub profile! I specialize in deep learning, multi-modal alignment, and creating universal strategies for multi-modal tasks. Here's a little bit about me:
 
@@ -30,9 +30,6 @@ Welcome to my GitHub profile! I specialize in deep learning, multi-modal alignme
 ## 📫 How to reach me:
 - Email: [3220241545@bit.edu.cn](mailto:3220241545@bit.edu.cn)
 - GitHub: [lmj1120201854](https://github.com/lmj1120201854)
-- [LinkedIn](Your LinkedIn URL)
-- [Portfolio or Website](Your Website URL)
-
 ---
 
 ## ⚡ Fun fact:
