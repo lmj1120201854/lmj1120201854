@@ -1,34 +1,43 @@
-# Hi, I'm Li Meiju 👋
+# Hi there, I'm lmj1120201854 👋
 
-Welcome to my GitHub profile! I'm passionate about deep learning, multi-modal alignment, and building universal strategies for multi-modal tasks. Here's a little bit about me:
+Welcome to my GitHub profile! I specialize in deep learning, multi-modal alignment, and creating universal strategies for multi-modal tasks. Here's a little bit about me:
 
 ---
 
 ## 🔭 I’m currently working on
-- **Multi-modal Alignment**: Exploring ways to effectively align multiple modalities for better understanding and decision-making.
-- **Universal Multi-modal Strategies**: Developing strategies that can generalize across different modalities for various AI tasks.
+- **Multi-modal Alignment**: Exploring techniques to align multiple modalities for better AI understanding and decision-making.
+- **Universal Multi-modal Strategies**: Developing strategies that can generalize across different modalities like text, image, and audio.
 
 ## 🌱 I’m currently learning
-- **Baidu PaddlePaddle**: Diving deep into the PaddlePaddle framework to build more efficient and scalable deep learning models.
+- **Baidu PaddlePaddle**: Diving into the PaddlePaddle deep learning framework for building scalable AI models.
+- **Multi-modal Learning**: Integrating different modalities such as text, images, and sound for powerful AI models.
+
+## 👯 I’m looking to collaborate on
+- AI and deep learning research
+- Open-source multi-modal projects
+- Optimizing AI frameworks like PaddlePaddle and PyTorch
 
 ## 🤔 I’m looking for help with
 - Best practices in multi-modal learning
-- Improving performance of models in real-world applications
-- Optimization techniques for deep learning frameworks
+- Optimizing model performance for real-world applications
+- Implementing cutting-edge techniques in AI frameworks
 
 ## 💬 Ask me about
-- **Deep Learning**: Neural networks, backpropagation, optimization methods.
-- **Multi-modal Systems**: How to combine and align different types of data (images, text, speech, etc.)
-- **PaddlePaddle**: Insights on using the Baidu PaddlePaddle deep learning framework.
+- **Deep Learning**: Neural networks, machine learning techniques, and optimization strategies.
+- **Multi-modal Systems**: Aligning and combining different data types (text, images, audio, etc.) in AI models.
+- **PaddlePaddle**: Insights into using the Baidu PaddlePaddle framework for deep learning tasks.
 
 ## 📫 How to reach me:
 - Email: [3220241545@bit.edu.cn](mailto:3220241545@bit.edu.cn)
 - GitHub: [lmj1120201854](https://github.com/lmj1120201854)
+- [LinkedIn](Your LinkedIn URL)
+- [Portfolio or Website](Your Website URL)
+
 ---
 
 ## ⚡ Fun fact:
-- I'm always fascinated by the intersection of **AI** and **real-world applications**!
-- In my free time, I love exploring new technologies and contributing to open-source projects.
+- I'm always fascinated by how **AI** can be applied in real-world scenarios!
+- I enjoy contributing to open-source projects and learning new technologies in my free time.
 
 ---
 
@@ -36,20 +45,53 @@ Welcome to my GitHub profile! I'm passionate about deep learning, multi-modal al
 
 - **Languages**: Python, C++, JavaScript
 - **Frameworks**: PaddlePaddle, TensorFlow, PyTorch
-- **Tools**: Git, Docker, Jupyter Notebook, VS Code
-- **Databases**: MySQL, MongoDB
-- **Others**: Cloud Computing, AI Ethics, Data Preprocessing, Model Optimization
+- **Tools**: Git, Docker, VS Code
+- **Databases**: MongoDB, MySQL
+- **Others**: Cloud Computing, Data Preprocessing, Model Optimization
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmj1120201854&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![lmj1120201854's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmj1120201854&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmj1120201854)
+
+---
+
+## 🏆 GitHub Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=lmj1120201854)
+
+---
+
+## 🎮 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=lmj1120201854)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lmj1120201854/lmj1120201854/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lmj1120201854/lmj1120201854/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lmj1120201854/lmj1120201854/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🗓 GitHub Activity Graph
+
+![lmj1120201854's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lmj1120201854)
 
 ---
 
 Thanks for visiting my profile! Let's connect and build something amazing! 🚀
-
 
 
 <!--
