@@ -1,47 +1,44 @@
-# Hi there, I'm Li Meiju 👋
+# Hi, I'm Li Meiju 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, technology, and collaborating with others on exciting projects. Here's a little bit about me:
+Welcome to my GitHub profile! I'm passionate about deep learning, multi-modal alignment, and building universal strategies for multi-modal tasks. Here's a little bit about me:
 
 ---
 
 ## 🔭 I’m currently working on
-- [Project Name or Description] - A short description of what you're currently working on or building.
+- **Multi-modal Alignment**: Exploring ways to effectively align multiple modalities for better understanding and decision-making.
+- **Universal Multi-modal Strategies**: Developing strategies that can generalize across different modalities for various AI tasks.
 
 ## 🌱 I’m currently learning
-- [Technology/Tool/Concept] - For example, "React," "Machine Learning," "Cloud Computing," etc.
-- [Another Technology or Concept]
-
-## 👯 I’m looking to collaborate on
-- Open-source projects
-- [Specific types of projects] - E.g., web apps, mobile apps, data science, etc.
+- **Baidu PaddlePaddle**: Diving deep into the PaddlePaddle framework to build more efficient and scalable deep learning models.
 
 ## 🤔 I’m looking for help with
-- [Specific area where you need assistance or mentorship]
-- [Another challenge you're facing]
+- Best practices in multi-modal learning
+- Improving performance of models in real-world applications
+- Optimization techniques for deep learning frameworks
 
 ## 💬 Ask me about
-- [Topic you are an expert in or interested in discussing]
-- [Another area of expertise or passion]
+- **Deep Learning**: Neural networks, backpropagation, optimization methods.
+- **Multi-modal Systems**: How to combine and align different types of data (images, text, speech, etc.)
+- **PaddlePaddle**: Insights on using the Baidu PaddlePaddle deep learning framework.
 
 ## 📫 How to reach me:
-- [Your Email] 
-- [Your Social Media (Twitter, LinkedIn, etc.)] 
-- [Website or Portfolio (if applicable)]
-
+- Email: [3220241545@bit.edu.cn](mailto:3220241545@bit.edu.cn)
+- GitHub: [lmj1120201854](https://github.com/lmj1120201854)
 ---
 
 ## ⚡ Fun fact:
-- I [Insert something fun or interesting about yourself] 
-- [Another cool or quirky fact]
+- I'm always fascinated by the intersection of **AI** and **real-world applications**!
+- In my free time, I love exploring new technologies and contributing to open-source projects.
 
 ---
 
 ## 💻 Technologies & Tools
 
-- Languages: JavaScript, Python, HTML, CSS, etc.
-- Frameworks: React, Node.js, Django, etc.
-- Tools: Git, Docker, VS Code, etc.
-- Databases: MongoDB, PostgreSQL, MySQL, etc.
+- **Languages**: Python, C++, JavaScript
+- **Frameworks**: PaddlePaddle, TensorFlow, PyTorch
+- **Tools**: Git, Docker, Jupyter Notebook, VS Code
+- **Databases**: MySQL, MongoDB
+- **Others**: Cloud Computing, AI Ethics, Data Preprocessing, Model Optimization
 
 ---
 
@@ -52,6 +49,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and colla
 ---
 
 Thanks for visiting my profile! Let's connect and build something amazing! 🚀
+
 
 
 <!--
