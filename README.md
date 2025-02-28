@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Li Meiju 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and collaborating with others on exciting projects. Here's a little bit about me:
 
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and colla
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmj1120201854&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
