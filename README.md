@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I specialize in deep learning, multi-modal alignme
 
 ## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nostalgic-jacksonbno?theme=light&font=Warnes&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nostalgic-jacksonbno?theme=light&font=Ubuntu&ext=heatmap&site=cn)
 
 ---
 
