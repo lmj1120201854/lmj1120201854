@@ -46,6 +46,16 @@ Welcome to my GitHub profile! I specialize in deep learning, multi-modal alignme
 - **Databases**: MongoDB, MySQL
 - **Others**: Cloud Computing, Data Preprocessing, Model Optimization
 
+- ## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/lmj1120201854?theme=light&font=roboto&ext=heatmap)
+
+---
+
+You can also link to your LeetCode profile for more details:
+
+- **LeetCode Profile**: [lmj1120201854](https://leetcode.cn/u/nostalgic-jacksonbno/)
+
 ---
 
 ## 📈 GitHub Stats
