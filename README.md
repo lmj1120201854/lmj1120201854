@@ -54,15 +54,9 @@ Welcome to my GitHub profile! I specialize in deep learning, multi-modal alignme
 
 ---
 
-## 📊 Top Languages
+## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmj1120201854)
-
----
-
-## 🏆 GitHub Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=lmj1120201854)
+![lmj1120201854's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmj1120201854&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
